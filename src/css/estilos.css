@@ -16,12 +16,12 @@ body {
     width: 100vw;
     height: 100vh;
     object-fit: cover;
-    animation: mudarImagem 0.7s;
+    display: none;
 }
 
 .carrossel .imagem.ativa {
     display: block;
-    
+    animation: mudarImagem 0.7s;
 }
 
 .informacoes {
