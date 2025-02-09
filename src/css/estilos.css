@@ -49,7 +49,7 @@ body {
 
 @font-face {
     font-family: "GOT";
-    src: url(/src/fonts/GOT.ttf);
+    src: url(../fonts/GOT.ttf);
 }
 
 .informacoes .descricao {
